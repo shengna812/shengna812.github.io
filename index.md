@@ -1,8 +1,10 @@
 ## 盛娜
 
-学校：浙江万里学院
+学历：本科
+学校：浙江万里学院智能与工程学院
+专业：通信工程
+邮箱：981704656@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
