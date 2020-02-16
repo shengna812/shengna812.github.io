@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人信息
 
 You can use the [editor on GitHub](https://github.com/shengna812/shengna812.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 最新消息
+## 研究方向
+### 荣誉奖励
 
 - Bulleted
 - List
