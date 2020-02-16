@@ -9,10 +9,11 @@
 ### -电话☎️：18176899273
 
 
-### 
+### 综合技能
+#### 外语水平	   英语：有良好的英语听说读写和翻译能力
+#### 计算机水平	擅长Office办公软件操作，熟练Excel数据分析，掌握PS、PR软件操作
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shengna812/shengna812.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 荣誉奖励
+暂无
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
