@@ -8,11 +8,10 @@
 ### -电话☎️：18176899273
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>#  盛   娜 （Sheng Na）</h1>
-       <p><b>## 个人照片</b></p>
-    </td>
     <td width="25%">
+      <h1> 个人照片</h1>
+    </td>
+    <td width="75%">
       <img src="/79F417B9-05E5-4E51-B576-6D7C14D3BF3A.jpeg" width="100%">      
     </td>
   </tr>
