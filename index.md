@@ -8,10 +8,10 @@
 ### -电话☎️：18176899273
 <table border="0">
   <tr>
-    <td width="25%">
+    <td width="50%">
       <h1> 个人照片</h1>
     </td>
-    <td width="75%">
+    <td width="50%">
       <img src="/79F417B9-05E5-4E51-B576-6D7C14D3BF3A.jpeg" width="100%">      
     </td>
   </tr>
@@ -24,20 +24,4 @@
 
 ### 荣誉奖励
 暂无
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>#  盛   娜 （Sheng Na）</h1>
-       <p><b>## 个人信息</b></p>
-      <p><b>### -学历：本科</b></p>
-      <p><b>### -学校：浙江万里学院智能与工程学院</b></p>
-      <p><b>### -专业：通信工程</b></p>
-      <p><b>### -邮箱📧：981704656@qq.com</b></p>
-      <p><b>### -电话☎️：18176899273</b></p>
-    </td>
-    <td width="25%">
-      <img src="/79F417B9-05E5-4E51-B576-6D7C14D3BF3A.jpeg" width="100%">      
-    </td>
-  </tr>
-</table>
 
