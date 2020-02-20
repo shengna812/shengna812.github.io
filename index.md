@@ -25,5 +25,5 @@
 ### 荣誉奖励
 #### 暂无
 
-[Link](url) and ![Image](/79F417B9-05E5-4E51-B576-6D7C14D3BF3A.jpeg)
+![Image](/79F417B9-05E5-4E51-B576-6D7C14D3BF3A.jpeg)
 ```
