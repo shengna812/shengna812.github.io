@@ -9,7 +9,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <h1> 个人照片</h1>
+      <h1> 照片</h1>
     </td>
     <td width="50%">
       <img src="/79F417B9-05E5-4E51-B576-6D7C14D3BF3A.jpeg" width="100%" >      
